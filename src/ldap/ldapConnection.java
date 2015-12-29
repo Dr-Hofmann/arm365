@@ -21,6 +21,7 @@ public class ldapConnection {
 			
 		System.out.print("It's ok ldap connection was established!!!");
 		System.out.print("Next you can see the list of entries!!!!!!");
+		System.out.print("And information is:");
 		
 		EntryCursor cursor = connection.search( "ou=system", "(objectclass=*)", SearchScope.ONELEVEL, "*" );
 
