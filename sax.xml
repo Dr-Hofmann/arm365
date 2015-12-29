@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PersonInfo>
+<name>Michale</name>
+<occupation>worker</occupation>
+<ageCat>senior</ageCat>
+<empCat>employed</empCat>
+<taxId>20</taxId>
+<usCitizen>true</usCitizen>
+<gender>male</gender>
+</PersonInfo>

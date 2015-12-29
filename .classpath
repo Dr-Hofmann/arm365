@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Libs/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="lib" path="Libs/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="Libs/api-all-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-asn1-api-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-asn1-ber-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-i18n-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-client-api-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-codec-core-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-extras-aci-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-extras-codec-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-extras-codec-api-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-model-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-schema-converter-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-ldap-schema-data-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/api-util-1.0.0-M33.jar"/>
+	<classpathentry kind="lib" path="Libs/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="Libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="Libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="Libs/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="Libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Libs/mina-core-2.0.10.jar"/>
+	<classpathentry kind="lib" path="Libs/org.apache.servicemix.bundles.antlr-2.7.7_5.jar"/>
+	<classpathentry kind="lib" path="Libs/org.apache.servicemix.bundles.xpp3-1.1.4c_6.jar"/>
+	<classpathentry kind="lib" path="Libs/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="Libs/xml-apis-2.0.2.jar"/>
+	<classpathentry kind="lib" path="Libs/slf4j-simple-1.7.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
